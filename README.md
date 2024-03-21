@@ -1,4 +1,4 @@
 # Makenzie's Notes
 
 ## Summary
-This repository contains all of the notes taken by Makenzie for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Makenzie](git@github.com:makenziewakefield/lighthouse-web-notes.git) for the Lighthouse Labs Web Development Bootcamp.
